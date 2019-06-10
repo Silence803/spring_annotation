@@ -5,4 +5,6 @@ package com.example.demo.domain;
  */
 public class Auth {
     public static final int NEED_LOGIN = 0;
+    public static final int ADMIN = 2;
+    public static final int EMP = 1;
 }
